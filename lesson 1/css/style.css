@@ -1,0 +1,52 @@
+
+html{
+    font-size:50px;
+}
+
+
+
+
+
+body {
+    font-size: 22px;
+    border: 2px solid black ;
+    background-color: paleturquoise;
+    color: darkblue;
+}
+
+button, input, textarea, select {
+    font: inherit;
+
+}
+
+
+
+
+h1 ,h2,h3{
+     color: brown;
+}
+
+p {
+    
+    color: rgb(65, 100, 6);
+
+}
+
+
+.highlight {
+    text-transform: uppercase;
+    background-color: aqua;
+}
+
+.gray {
+    color: rgb(137, 75, 75);
+}
+
+#Second {
+    font-style: italic;
+}
+
+
+
+
+
